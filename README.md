@@ -1,1 +1,1 @@
-# MERN-Ecommerce-React-Redux-ExpressJS
+# MERN-Ecommerce-React-ExpressJS
